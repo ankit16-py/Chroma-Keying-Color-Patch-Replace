@@ -32,4 +32,18 @@ As seen below in the output images, I have replaced the green-screen of the aste
 ## Outputs
 
 PLEASE REFER TO THE OUTPUT FOLDER TO SEE A VIDEO OF THE GENERATED OUTPUTS
-
+<br>
+<br>
+<img src='output/output 1.png' width= 800 px>
+<br>
+<br>
+<img src='output/output 2.png' width= 800 px>
+<br>
+<br>
+<img src='output/output 3.png' width= 800 px>
+<br>
+<br>
+<img src='output/output 4.png' width= 800 px>
+<br>
+<br>
+<img src='output/output 5.png' width= 800 px>
